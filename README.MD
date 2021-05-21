@@ -1,6 +1,6 @@
 # TableTop
 
-TableTop is a table formatter extension for the console.
+TableTop is a Python table formatter extension for the console.
 
 <p align="center">
     <img src="./assets/TableTop_demo.png" width="600">
