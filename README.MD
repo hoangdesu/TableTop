@@ -14,7 +14,7 @@ TableTop is a Python table formatter extension for the console.
 * Copy the class TableTop.py to your working directory
 * <code>from TableTop import *</code>
 * Create an object from TableTop class
-* Voila!
+* Voilà!
 
 ## Methods
 
