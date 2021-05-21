@@ -2,7 +2,11 @@
 
 TableTop is a table formatter extension for the console.
 
-![TableTop](./assets/TableTop_demo.png)
+<p align="center">
+    <img src="./assets/TableTop_demo.png" width="600">
+</p>
+
+<!-- ![TableTop](./assets/TableTop_demo.png) -->
 
 ## Usage
 
